@@ -1,5 +1,7 @@
 # DeepLeague-Exploration
 A modified version of DeepLeague by Farza
+The following README is taken from Farza's original README.
+
 # DeepLeague - leveraging computer vision and deep learning on the League of Legends mini map + a dataset of over 100,000 labeled images to further A.I research within esports.
 
 [Please read the blog post here. This repo just explains how to get setup. The blog will explain what this actually is!](https://medium.com/p/d275fd17c4e0/)
